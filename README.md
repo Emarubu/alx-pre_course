@@ -1,2 +1,2 @@
 Second commit
-g
+update readme
